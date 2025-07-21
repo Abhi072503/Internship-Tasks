@@ -31,3 +31,6 @@ Pandas – for data manipulation
 Scikit-learn – for encoding and scaling
 OpenPyXL – for reading .xlsx files
 
+##output
+
+   <img width="1428" height="996" alt="Image" src="https://github.com/user-attachments/assets/d3f6772b-afb9-4f94-b09c-cfe7fe4cdb17" />
